@@ -1,1 +1,1 @@
-This is my project of 0x00. Pascal's Triangle
+This is my repository for interview
